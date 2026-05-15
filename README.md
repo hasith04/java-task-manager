@@ -10,7 +10,6 @@ This project allows users to add, remove, view, and manage daily tasks through a
 - Add new tasks
 - View all tasks
 - Remove tasks
-- Mark tasks as completed
 - Save tasks using file handling
 - Simple menu-driven interface
 
